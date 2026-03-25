@@ -12,10 +12,13 @@ whoami
 ````
 
 ```yaml
-$
+
 Hi 👋 I am Ogechukwu Okoli
 
-I engineer data solutions with a systems mindset—emphasizing precision, transparency, and smart design choices to build trustworthy infrastructure. My focus is on creating scalable, resilient data platforms that empower analytics, build models ,drive meaningful decisions, and create tangible value across organizations, with a special focus on creating real value in health and related sectors.
+I engineer data solutions with a systems mindset—emphasizing precision, transparency, and
+smart design choices to build trustworthy infrastructure.
+My focus is on creating scalable, resilient data platforms that empower analytics, build models,
+drive meaningful decisions, and create tangible value across organizations, with a special focus on creating real value in health and related sectors.
 
 My approach is simple. Solve data problems with available resources in the best way possible
 
