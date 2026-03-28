@@ -1,7 +1,7 @@
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:okoliogechi74@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://linkedin.com/in/ogechukwu-okoli-154684325)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Data+Engineering;Turning+Data+into+Decisions;Automating+the+Future;Cloud;Exploring+Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Data+Engineering;Turning+Data+into+Decisions;Automation;Cloud;Exploring+Machine+Learning)](https://git.io/typing-svg)
 
 > *"Transforming raw data into smart solutions, one pipeline, model at a time."*
 
