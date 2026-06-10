@@ -1,5 +1,6 @@
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:okoliogechi74@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://linkedin.com/in/ogechukwu-okoli-154684325)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>](https://medium.com/@okoliogechi74)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Data+Engineering;Turning+Data+into+Decisions;Automation;Cloud;Analytics+Engineering;)](https://git.io/typing-svg)
 
@@ -12,7 +13,7 @@ whoami
 ```
 
 ```yaml
-Hi 👋 I am Ogechukwu Okoli
+Hi 👋, I am Ogechukwu Okoli
 
 I engineer data solutions with a systems mindset—emphasizing precision, transparency, and
 smart design choices to build trustworthy infrastructure.
@@ -21,9 +22,16 @@ drive meaningful decisions, and create tangible value across organizations,
 with a special focus on creating real value in health and related sectors.
 
 My approach is simple. Solve data problems with available resources in the best way possible.
-
-Focus: Data Engineering, Analytics Engineering, Automation, Cloud, Exploring Machine Learning
 ```
+
+### 🚀 Technical Focus
+* **Core Domains:** Data Engineering, Analytics Engineering, Automation, Infrastructure & Cloud.
+* **Adjacencies:** Exploring Machine Learning workflows
+
+### 🌐 Open Source & Community Engagement
+I believe in building in the open and giving back to the technical community. I am currently active in:
+* **Nexus Spring of Code:** Contributing to open-source infrastructure and tooling initiatives.
+* **Learn to Cloud Organisation:** Contributing to the `linux-ctf` repository, building hands-on challenges to help others learn linux, cloud and infra fundamentals.
 
 ```shell
 ls skills
