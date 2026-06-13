@@ -25,13 +25,13 @@ My approach is simple. Solve data problems with available resources in the best 
 ```
 
 ### 🚀 Technical Focus
-* **Core Domains:** Data Engineering, Analytics Engineering, Automation, Infrastructure & Cloud.
+* **Core Domains:** Data Engineering, Analytics Engineering, Data Science, Automation, Infrastructure & Cloud.
 * **Adjacencies:** Exploring Machine Learning workflows
 
 ### 🌐 Open Source Contribution
 I believe in building in the open and giving back to the technical community. I am currently active in:
-* **Nexus Spring of Code:** Contributing to open-source infrastructure and tooling initiatives.
-* **Learn to Cloud Organisation:** Contributing to the `linux-ctf` repository, building hands-on challenges to help others learn linux, cloud and infra fundamentals.
+* **Nexus Spring of Code:** Contributing to open-source Projects using Python.
+* **Learn to Cloud Organisation:** Contributed to the `linux-ctf` repository to help fix LF and CRLF line endings building hands-on challenges to help others learn linux, cloud and infra fundamentals.
 
 ```shell
 ls skills
