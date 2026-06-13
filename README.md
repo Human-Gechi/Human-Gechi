@@ -23,7 +23,6 @@ drive meaningful decisions, and create tangible value across organizations,
 with a special focus on creating real value in health and related sectors.
 
 My approach is simple. Solve data problems with available resources in the best way possible
-1x Hackathon Winner for an ML Hackathon.
 ```
 
 ### 🚀 Technical Focus
