@@ -14,7 +14,7 @@ whoami
 
 ```yaml
 Hi 👋, I am Ogechukwu Okoli
-1x Hackathon Winner for an ML Hackathon.
+1x Hackathon Winner
 
 I engineer data solutions with a systems mindset—emphasizing precision, transparency, and
 smart design choices to build trustworthy infrastructure.
