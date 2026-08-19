@@ -2,66 +2,20 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://linkedin.com/in/ogechukwu-okoli-154684325)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>](https://medium.com/@okoliogechi74)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Data+Engineering;Turning+Data+into+Decisions;Automation;Cloud;Analytics+Engineering;)](https://git.io/typing-svg)
+# Ogechukwu Okoli
 
-> *"Transforming raw data into smart solutions, one pipeline, model at a time."*
+> *"Transforming raw data into smart solutions, one analysis, one pipeline at a time."*
 
----
+## About
+I'm a Computer Science with Mathematics student at Obafemi Awolowo University, currently exploring the space between data analytics and data engineering — I like the analysis side (finding the pattern, testing the hypothesis, building the dashboard that makes it obvious) just as much as I like the plumbing side (making sure the data behind that dashboard is actually correct, fresh, and trustworthy).
 
-```shell
-whoami
-```
+## 🚀 Technical Focus
+- Core domains: Data Analysis, Data Engineering, Statistics, Automation, Infrastructure & Cloud  
+- Adjacent: Machine learning workflows
 
-```yaml
-Hi 👋, I am Ogechukwu Okoli
-1x Hackathon Winner
+## 🌐 Open Source
+* **Nexus Spring of Code:** Contributing to open-source projects using Python.
+* **Learn to Cloud Organisation:** Contributed to the `linux-ctf` repository to help fix LF/CRLF line endings and build hands-on challenges to help others learn Linux, cloud, and infra fundamentals.
 
-I engineer data solutions with a systems mindset—emphasizing precision, transparency, and
-smart design choices to build trustworthy infrastructure.
-My focus is on creating scalable, resilient data platforms that empower analytics, build models,
-drive meaningful decisions, and create tangible value across organizations,
-with a special focus on creating real value in health and related sectors.
-
-My approach is simple. Solve data problems with available resources in the best way possible
-```
-
-### 🚀 Technical Focus
-* **Core Domains:** Data Engineering, Analytics Engineering, Data Science, Automation, Infrastructure & Cloud.
-* **Adjacencies:** Exploring Machine Learning workflows
-
-### 🌐 Open Source Contribution
-I believe in building in the open and giving back to the technical community. I am currently active in:
-* **Nexus Spring of Code:** Contributing to open-source Projects using Python.
-* **Learn to Cloud Organisation:** Contributed to the `linux-ctf` repository to help fix LF and CRLF line endings building hands-on challenges to help others learn linux, cloud and infra fundamentals.
-
-```shell
-ls skills
-```
-
-<div align="center">
-
-[<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>](https://www.terraform.io/)
-[<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>](https://aws.amazon.com/)
-[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>](https://www.python.org/)
-[<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>](https://www.gnu.org/software/bash/)
-[<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>](https://kafka.apache.org/)
-[<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>](https://airflow.apache.org/)
-[<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>](https://scikit-learn.org/)
-[<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>](https://pandas.pydata.org/)
-[<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>](https://numpy.org/)
-[<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>](https://www.postgresql.org/)
-[<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>](https://www.mysql.com/)
-[<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>](https://matplotlib.org/)
-[<img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>](https://seaborn.pydata.org/)
-[<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>](https://jupyter.org/)
-[<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>](https://git-scm.com/)
-[<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>](https://www.docker.com/)
-
-<br/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Human-Gechi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Gechi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=Human-Gechi&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=e94560&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
-
-</div>
+## Skills
+Python, SQL, Pandas, NumPy, PostgreSQL, MySQL, Matplotlib, Seaborn, Jupyter Notebook, Power BI, Bash, Apache Kafka, Apache Airflow, Terraform, AWS
