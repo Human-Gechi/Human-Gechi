@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://linkedin.com/in/ogechukwu-okoli-154684325)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>](https://medium.com/@okoliogechi74)
 
-# Ogechukwu Okoli • Data Engineer • Data Analyst • Cloud
+# Ogechukwu Okoli
 
 > *"Transforming raw data into smart solutions, one analysis, one pipeline at a time."*
 
@@ -18,4 +18,4 @@ I'm a Computer Science with Mathematics student at Obafemi Awolowo University, c
 * **Learn to Cloud Organisation:** Contributed to the `linux-ctf` repository to help fix LF/CRLF line endings and build hands-on challenges to help others learn Linux, cloud, and infra fundamentals.
 
 ## Skills
-Python, SQL, Bash, Pandas, NumPy, PostgreSQL, MySQL, Matplotlib, Seaborn, Jupyter Notebook, Power BI, Apache Kafka, Apache Airflow, Terraform, AWS, Metabase
+Python, SQL, Bash, Pandas, NumPy, Plotly, PostgreSQL, MySQL, Matplotlib, Seaborn, Jupyter Notebook, Power BI, Apache Kafka, Apache Airflow, Terraform, AWS, Metabase
