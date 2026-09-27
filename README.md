@@ -4,18 +4,18 @@
 
 # Ogechukwu Okoli
 
-> *"Transforming raw data into smart solutions, one analysis, one pipeline at a time."*
+> *"I like knowing how things work well enough to build them myself."*
 
 ## About
-I'm a Computer Science with Mathematics student at Obafemi Awolowo University, currently exploring the space between data analytics and data engineering — I like the analysis side (finding the pattern, testing the hypothesis, building the dashboard that makes it obvious) just as much as I like the plumbing side (making sure the data behind that dashboard is actually correct, fresh, and trustworthy).
+I'm a Computer Science with Mathematics student at Obafemi Awolowo University. I build things end to end — pipelines that move and shape data, the infrastructure that runs underneath them, and the small tools that make a system easier to understand. I'm equally comfortable tracing a problem down to `/proc` or a socket and up to a dashboard someone actually uses, and I learn best by building, breaking things.
 
 ## 🚀 Technical Focus
-- Core domains: Data Analysis, Data Engineering, Statistics, Automation, Infrastructure & Cloud  
-- Adjacent: Machine learning workflows
+- Core domains: Data Engineering, Systems & Infrastructure, Automation, Cloud  
+- Adjacent: Data Analysis, Machine Learning workflows
 
 ## 🌐 Open Source
-* **Nexus Spring of Code:** Contributing to open-source projects using Python.
-* **Learn to Cloud Organisation:** Contributed to the `linux-ctf` repository to help fix LF/CRLF line endings and build hands-on challenges to help others learn Linux, cloud, and infra fundamentals.
+* **Learn to Cloud Organisation:** Contributed to the `linux-ctfs` repository — fixed LF/CRLF line-ending issues breaking CI, and helped build hands-on challenges that teach Linux, cloud, and infra fundamentals.
+* **Nexus Spring of Code:** Contributing to open-source projects in Python.
 
 ## Skills
-Python, SQL, Bash, Pandas, NumPy, Plotly, PostgreSQL, MySQL, Matplotlib, Seaborn, Jupyter Notebook, Power BI, Apache Kafka, Apache Airflow, Terraform, AWS, Metabase
+Python, SQL, Bash, Terraform, AWS, Docker, PostgreSQL, MySQL, Apache Kafka, Apache Airflow, Pandas, NumPy, Git, GitHub Actions, CI/CD, Power BI, Metabase
